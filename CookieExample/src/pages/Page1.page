@@ -1,0 +1,5 @@
+<apex:page controller="Controller1">
+  <apex:form >
+      <apex:commandButton value="Go to Home by saving cookies" action="{!actionCall}"/>
+  </apex:form>
+</apex:page>
